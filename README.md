@@ -13,6 +13,7 @@ Encrypt personal information in query string and pre-populate them to Gravity Fo
 <!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
 
 
+- [Goal](#goal)
 - [Minimum Requirements](#minimum-requirements)
 - [Installation](#installation)
 - [Usage](#usage)
