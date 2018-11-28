@@ -3,7 +3,7 @@
  * Plugin Name:     GF GDRP Confirmation
  * Plugin URI:      https://www.itineris.co.uk/
  * Description:     Encrypt personal information in query string and pre-populate them to Gravity Forms fields
- * Version:         0.0.0
+ * Version:         0.1.0
  * Author:          Itineris Limited
  * Author URI:      https://www.itineris.co.uk/
  * Text Domain:     gf-gdrp-confirmation
