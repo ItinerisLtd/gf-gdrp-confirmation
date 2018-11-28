@@ -3,6 +3,8 @@
     "type": "wordpress-plugin",
     "description": "Encrypt personal information in query string and pre-populate them to Gravity Forms fields",
     "keywords": [
+        "encryption",
+        "gdrp",
         "gravityforms",
         "wordpress",
         "wp"
